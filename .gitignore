@@ -1,6 +1,7 @@
 # Local .terraform directories
 **/.terraform/*
 .idea
+.gitignore
 
 # .tfstate files
 *.tfstate
@@ -34,3 +35,6 @@ credentials.json
 # example: *tfplan*
 
 .DS_Store
+
+#checkov / bridgecrew stuff
+chkv.*
