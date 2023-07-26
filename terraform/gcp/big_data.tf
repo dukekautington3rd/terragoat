@@ -31,7 +31,7 @@ resource "google_bigquery_dataset" "dataset" {
     git_last_modified_by = "jameswoolfenden"
     git_modifiers        = "jameswoolfenden__nimrodkor"
     git_org              = "dukekautington3rd"
-    git_repo             = "terragoat"
+    git_repo             = "terragoat-lon"
     yor_trace            = "2560d883-bc3a-4cb6-b9fc-fb666edf626e"
   }
 }
